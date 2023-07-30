@@ -73,3 +73,7 @@ Lista as branches já existentes
 
 `svn merge <url-da-branch>`  
 Mescla a branch ao trunk (branch principal)  
+
+## 📕 Livro gratuito
+[Controle de Versão com
+Subversion](https://svnbook.red-bean.com/)
